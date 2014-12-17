@@ -10,7 +10,11 @@ Email:      mteoh@sfu.ca
 % directories, extract the data, and put it into mat files. 
 
 % there are 13 groups specify the range of groups you wanna extract the
-% data from. specify a start and an end group to operate on.
+% data from. specify a start and an end group to operate on. for example, the
+% names go like group01, group02, ..., group09, group10, ... and so on. each of
+% these groups (of the json files containing the hotel's information) have their
+% own folder. when doing this project we put 1000 in each group, with the 
+% remainder in the last one.
 
 startGroup=2;
 endGroup=13;

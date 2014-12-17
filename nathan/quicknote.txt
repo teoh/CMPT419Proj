@@ -1,0 +1,1 @@
+Note that FeatureWords.txt comes from the TripAdvisor dataset described in the README. 

@@ -1,0 +1,1 @@
+Note: everything in featureWords except for chosen_AdjAdvGer came from files in the TripAdvisor dataset, described in the README.
